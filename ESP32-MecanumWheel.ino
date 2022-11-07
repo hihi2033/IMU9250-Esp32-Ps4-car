@@ -1,7 +1,4 @@
-/* Controlling ESP32 Mecanum Wheel car by PS4 Controller
- * created by: Winston Yeung
- * revision date: 16 Oct 2022
-*/
+
 //Mecanum Wheel car and slave
 #include <PS4Controller.h>
 #include "esp_bt_main.h"
